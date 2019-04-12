@@ -57,4 +57,4 @@ func main() {
 	}
 	fmt.Printf("origin w2:%v w1:%v w0:%v\n", *w2, *w1, *w0)
 	fmt.Printf("current w2:%v w1:%v w0:%v\n", a, b, c)
-
+}
